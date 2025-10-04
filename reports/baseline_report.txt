@@ -1,0 +1,50 @@
+Baseline Data Quality Report
+===========================
+
+Shape: (891, 12)
+
+Missing values:
+PassengerId      0
+Survived         0
+Pclass           0
+Name             0
+Sex              0
+Age            177
+SibSp            0
+Parch            0
+Ticket           0
+Fare             0
+Cabin          687
+Embarked         2
+dtype: int64
+
+Total duplicate rows: 0
+
+Basic statistics:
+        PassengerId    Survived      Pclass                     Name   Sex  \
+count    891.000000  891.000000  891.000000                      891   891   
+unique          NaN         NaN         NaN                      891     2   
+top             NaN         NaN         NaN  Braund, Mr. Owen Harris  male   
+freq            NaN         NaN         NaN                        1   577   
+mean     446.000000    0.383838    2.308642                      NaN   NaN   
+std      257.353842    0.486592    0.836071                      NaN   NaN   
+min        1.000000    0.000000    1.000000                      NaN   NaN   
+25%      223.500000    0.000000    2.000000                      NaN   NaN   
+50%      446.000000    0.000000    3.000000                      NaN   NaN   
+75%      668.500000    1.000000    3.000000                      NaN   NaN   
+max      891.000000    1.000000    3.000000                      NaN   NaN   
+
+               Age       SibSp       Parch  Ticket        Fare Cabin Embarked  
+count   714.000000  891.000000  891.000000     891  891.000000   204      889  
+unique         NaN         NaN         NaN     681         NaN   147        3  
+top            NaN         NaN         NaN  347082         NaN    G6        S  
+freq           NaN         NaN         NaN       7         NaN     4      644  
+mean     29.699118    0.523008    0.381594     NaN   32.204208   NaN      NaN  
+std      14.526497    1.102743    0.806057     NaN   49.693429   NaN      NaN  
+min       0.420000    0.000000    0.000000     NaN    0.000000   NaN      NaN  
+25%      20.125000    0.000000    0.000000     NaN    7.910400   NaN      NaN  
+50%      28.000000    0.000000    0.000000     NaN   14.454200   NaN      NaN  
+75%      38.000000    1.000000    0.000000     NaN   31.000000   NaN      NaN  
+max      80.000000    8.000000    6.000000     NaN  512.329200   NaN      NaN  
+
+Number of rows with potential outliers: 65

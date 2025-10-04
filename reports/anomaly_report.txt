@@ -1,0 +1,5 @@
+Anomaly Detection Report
+======================
+
+Z-score outliers: 65
+Isolation Forest outliers: 45
