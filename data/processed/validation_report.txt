@@ -1,0 +1,13 @@
+Completeness: 100.00%
+Duplicate rows: 0
+Outlier summary per column:
+  PassengerId: Ignored for validation
+  Survived: {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}
+  Pclass: {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}
+  Age: {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}
+  SibSp: {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}
+  Parch: {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}
+  Fare: Ignored for validation
+  outlier_zscore: {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}
+  outlier_iforest: {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}
+  outlier_lstm: {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}

@@ -1,0 +1,9 @@
+Missing values per column:
+{'PassengerId': 0, 'Survived': 0, 'Pclass': 0, 'Name': 0, 'Sex': 0, 'Age': 0, 'SibSp': 0, 'Parch': 0, 'Ticket': 0, 'Fare': 0, 'Cabin': 0, 'Embarked': 0, 'outlier_zscore': 0, 'outlier_iforest': 0, 'outlier_lstm': 0}
+
+Duplicate rows:
+0
+
+Outliers flagged:
+{'outlier_zscore': 65, 'outlier_iforest': 45, 'outlier_lstm': 45}
+
