@@ -1,0 +1,36 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data folders (ignore raw/large data)
+data/raw/
+data/cleaned/
+data/metadata/
+
+# Processed outputs (keep only essential CSVs if needed)
+# data/processed/train_clean.csv  # Uncomment if you want to track this
+data/processed/*.png
+data/processed/data_quality_report.txt
+data/processed/validation_report.txt
+
+# Reports (optional: track only final reports)
+reports/anomaly_report.txt
+reports/baseline_report.txt
+
+# Environment / secrets
+.env
+venv/
+outputs/
+notebooks/outputs/
+*.csv
+

@@ -1,0 +1,6 @@
+Autonomous Cleaning Report — 20251114_161434
+
+Original rows: 100
+Cleaned rows: 100
+
+Numeric features cleaned: Index

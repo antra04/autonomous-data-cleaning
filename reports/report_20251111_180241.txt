@@ -1,0 +1,6 @@
+Autonomous Cleaning Report — 20251111_180241
+
+Original rows: 2970
+Cleaned rows: 2970
+
+Numeric features cleaned: ALAND, AWATER, B1, B10, B11, B12, B2, B3, B4, B5, B6, B7, B8, B8A, B9, CBSAFP, COUNTYFP, COUNTYNS, CSAFP, EVI, GEOID, INTPTLAT, INTPTLON, LSAD, METDIVFP, NDVI, QA10, QA20, QA60, STATEFP

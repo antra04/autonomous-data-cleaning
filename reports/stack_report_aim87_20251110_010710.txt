@@ -1,0 +1,11 @@
+Stacking (aim ~87%) Holdout Report
+Accuracy: 0.8659
+Precision: 0.8000
+Recall: 0.8696
+F1: 0.8333
+ROC AUC: 0.9017
+
+Estimators used:
+- lgb: LGBMClassifier
+- xgb: XGBClassifier
+- rf: RandomForestClassifier

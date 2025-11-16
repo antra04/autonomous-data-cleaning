@@ -1,0 +1,23 @@
+# Data Quality Report
+
+
+You are a data-quality analyst. Dataset shape: (891, 15), completeness: 100.00%, duplicate rows: 0, numeric columns: ['PassengerId', 'Survived', 'Pclass', 'Age', 'SibSp', 'Parch', 'Fare', 'outlier_zscore', 'outlier_iforest', 'outlier_lstm'], outlier summary: {'PassengerId': {'below_1pct': np.int64(9), 'above_99pct': np.int64(9)}, 'Survived': {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}, 'Pclass': {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}, 'Age': {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}, 'SibSp': {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}, 'Parch': {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}, 'Fare': {'below_1pct': np.int64(0), 'above_99pct': np.int64(9)}, 'outlier_zscore': {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}, 'outlier_iforest': {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}, 'outlier_lstm': {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}}. 
+Generate 3 concise paragraphs highlighting issues, insights, and recommendations.
+Generate a concise paragraphs highlighting issues, insights, and recommendations.
+Generate a concise paragraphs highlighting issues, insights, and recommendations. Visualize 5 paragraphs highlighting issues, recommendations, and recommendations.
+Visualize 5 paragraphs highlighting issues, recommendations, and recommendations. More detail & analysis
+Runs the generated examples in a web browser and in Python using the generated examples.
+Runs the generated examples in a web browser and in Python using the generated examples.
+Runs the generated examples in a web browser and in Python using the generated examples. Runs the generated examples in an web browser and in Python using the generated examples. Write as an example into a document using either the.py project or.py scripts. Run an X-based project using the generated examples, and add the examples in the document using either the.py project or.py scripts. Run an X-based project using the generated examples, and add the examples into the document using either the.py project or.py scripts. Run an X-based project using the generated examples, and add the examples in the document using either the.py project or.py scripts. Run an X-based project using the generated examples, and add the examples in the document using either the.py project or.py scripts. Run an X-based project using the generated examples, and add the examples in the document using either the.py project or.py scripts. Run an X-based project using the generated examples
+
+## Visualizations
+![reports/PassengerId_hist.png](reports/PassengerId_hist.png)
+![reports/Survived_hist.png](reports/Survived_hist.png)
+![reports/Pclass_hist.png](reports/Pclass_hist.png)
+![reports/Age_hist.png](reports/Age_hist.png)
+![reports/SibSp_hist.png](reports/SibSp_hist.png)
+![reports/Parch_hist.png](reports/Parch_hist.png)
+![reports/Fare_hist.png](reports/Fare_hist.png)
+![reports/outlier_zscore_hist.png](reports/outlier_zscore_hist.png)
+![reports/outlier_iforest_hist.png](reports/outlier_iforest_hist.png)
+![reports/outlier_lstm_hist.png](reports/outlier_lstm_hist.png)

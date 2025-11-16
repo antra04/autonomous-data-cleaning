@@ -1,0 +1,22 @@
+
+You are a data quality analyst. Based on the dataset metrics below, 
+generate a clear, professional data-quality report with recommendations.
+
+Dataset shape: (891, 15)
+Completeness: 100.00%
+Duplicate rows: 0
+Numeric Columns Summary: {'PassengerId': {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}, 'Survived': {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}, 'Pclass': {'below_1pct': np.int64(0), 'above_99pct': np.int64(0)}, 'Age': {'below_1pct': np.int64(0), 'above_99pct': np.int64(26)}, 'SibSp': {'below_1pct': np.int64(0), 'above_99pct': np.int64(46)}, 'Parch': {'below_1pct': np.int64(0), 'above_99pct': np.int64(15)}, 'Fare': {'below_1pct': np.int64(0), 'above_99pct': np.int64(38)}, 'outlier_zscore': {'below_1pct': np.int64(0), 'above_99pct': np.int64(65)}, 'outlier_iforest': {'below_1pct': np.int64(0), 'above_99pct': np.int64(45)}, 'outlier_lstm': {'below_1pct': np.int64(0), 'above_99pct': np.int64(45)}}
+
+Provide 3 concise paragraphs highlighting potential issues, insights, and recommendations.
+The following table is compiled as a PDF format for the raw data.
+Table Example: Name, time, age, country, and other data
+Name Name
+Country
+Country
+Country Name
+Country Age
+Country Country Country Country Country Country Country Country State
+Country Country Country Country Country Country Country Country Country Country Country Country
+For further information:
+Data visualization
+See the data visualization.

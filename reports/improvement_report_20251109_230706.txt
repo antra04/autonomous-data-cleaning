@@ -1,0 +1,7 @@
+Model improvement experiments
+Timestamp: 20251109_230706
+
+                model                                                                    best_params  accuracy  precision   recall       f1  roc_auc
+logistic_interactions                                          {'clf__C': 0.1, 'clf__penalty': 'l2'}  0.815931   0.755187 0.771739 0.762671      NaN
+        random_forest {'clf__max_depth': None, 'clf__min_samples_leaf': 3, 'clf__n_estimators': 100}  0.839483   0.830860 0.730776 0.776252      NaN
+       gradient_boost     {'clf__learning_rate': 0.1, 'clf__max_depth': 5, 'clf__n_estimators': 100}  0.834988   0.806182 0.751236 0.776719      NaN

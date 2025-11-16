@@ -1,0 +1,6 @@
+Autonomous Cleaning Report — 20251114_161819
+
+Original rows: 10
+Cleaned rows: 10
+
+Numeric features cleaned: ID, Score

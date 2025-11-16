@@ -1,0 +1,6 @@
+Autonomous Cleaning Report — 20251116_233457
+
+Source: dirty_ml_dataset.csv
+Rows output: 1520
+Numeric columns: customer_id, age, income, score, will_buy
+Object columns: gender, city, purchase_history, signup_date
