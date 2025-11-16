@@ -1,26 +1,10 @@
-# === Core Execution Environment ===
-numpy==1.26.4
-pandas==2.2.2
-scikit-learn==1.4.2
-joblib==1.4.2
+streamlit==1.32.0
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.2
+plotly==5.18.0
+fpdf2==2.7.6
 
-# === Visualisation & Notebooks ===
-jupyter
-matplotlib==3.8.4
-seaborn==0.13.2
-altair==5.2.0
-protobuf==4.25.3
-
-# === Gradient Boosting Models ===
-xgboost==2.0.3
-lightgbm==4.3.0
-
-# === Streamlit App ===
-streamlit==1.38.0
-
-# === Reporting ===
-fpdf2==2.7.9
-
-# === Utility Packages ===
-tqdm==4.66.4
-python-dateutil==2.9.0.post0
+# utilities
+python-dateutil
+pytz
