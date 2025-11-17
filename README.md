@@ -340,7 +340,7 @@ Deployment assets include:
 # 👤 <a name="author"></a> **Author**
 
 **Antra Tiwari**
-AI/ML Developer | Data Engineering Enthusiast
-4th Year B.Tech CSE
+ AI/ML Developer | Data Engineering Enthusiast
+ 4th Year B.Tech CSE
 
 ---
